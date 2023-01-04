@@ -3,7 +3,7 @@
  
  
  
- username => burak@mail.com
+ username => burak@gmail.com
  
  
  password => burak1
